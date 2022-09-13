@@ -3,4 +3,5 @@
 -EditorConfig  
 -Prettier  
 -Stylelint  
--ESLint
+-ESLint  
+-Live Server
