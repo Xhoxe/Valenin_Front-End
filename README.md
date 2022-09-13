@@ -1,4 +1,6 @@
 # practice-13
 
 -EditorConfig  
--Prettier
+-Prettier  
+-Stylelint  
+-ESLint
