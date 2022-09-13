@@ -1,4 +1,4 @@
 # practice-13
 
--EditorConfig
+-EditorConfig  
 -Prettier
