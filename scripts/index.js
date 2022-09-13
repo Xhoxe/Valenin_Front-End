@@ -1,3 +1,6 @@
 'use strict';
 
-const fn = (x) => x;
+const fn = (x) => {
+	console.log(x);
+};
+fn('Hello ESLint');
